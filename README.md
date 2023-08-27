@@ -1,4 +1,4 @@
-##### kubernetes bare metal install
+## kubernetes bare metal install
 
 tee /etc/modules-load.d/containerd.conf <<EOF
 overlay
