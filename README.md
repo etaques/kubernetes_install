@@ -66,4 +66,5 @@ curl https://raw.githubusercontent.com/projectcalico/calico/v3.25.0/manifests/ca
 kubectl apply -f calico.yaml
 
 ###### load balancer controller
+
 https://metallb.universe.tf/installation/
